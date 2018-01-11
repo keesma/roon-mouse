@@ -1,5 +1,5 @@
 # roon-mouse
-Process mouse events and send commands to roon (pause, play, change volume, next and previous track)
+Process mouse events and send commands to the roon music player (pause, play, change volume, next and previous track)
 
 A python script to process mouse events and send commands to Roon 
 The mouse was connected to my Raspberry Pi.
