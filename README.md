@@ -7,3 +7,5 @@ The volume can be chaged with the mouse wheel.
 
 The script can be extended so you can also select the music player you want to select.
 Currently the music player is hardcoded.
+
+Uses https://github.com/st0g1e/roon-extension-http-api to send commands to the roon player.
